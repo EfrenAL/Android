@@ -1,1 +1,4 @@
-Example for how to get position and store in a SQLite database.
+This code include:
+
+ - How to get location (Latitude, Longitude)
+ - How to store locations in a SQLite database
