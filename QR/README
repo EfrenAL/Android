@@ -1,0 +1,5 @@
+This code include:
+
+ - Example for generate a QR code using ZXing library
+ - Example for read QR code using ZXing library (in progress)
+

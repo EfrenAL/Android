@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">qr</string>
+    <string name="action_write">Write</string>
+    <string name="action_read">Read</string>
+
+</resources>
