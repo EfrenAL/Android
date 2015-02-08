@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Position</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_all">Show</string>
+    <string name="position">Position</string>
+    <string name="delete_all">Delete</string>
+
+</resources>
