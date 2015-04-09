@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    android:background="@drawable/circle_color"
+    android:padding="5dp">
+
+    <ImageButton
+        android:id="@+id/b_circle"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:gravity = "center"
+        android:visibility="invisible"
+        android:background="@color/transparent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"                
+        android:src="@drawable/ic_ok" />
+    
+    
+</RelativeLayout>

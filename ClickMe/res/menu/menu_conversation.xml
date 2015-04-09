@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:clickme="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/action_ok"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_show_text"/>
+    <item
+        android:id="@+id/action_add_text"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_add_text"
+        android:visible="false"/>
+
+</menu>
