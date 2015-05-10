@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ally</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_show_map">Map</string>
+    <string name="activity_parameter">route</string>
+	<string name="allryder">Allryder</string>
+	<string name="hours">h</string>
+	<string name="minutes">min</string>
+	<string name="seconds">sec</string>
+	<string name="routes">Routes</string>
+	<string name="route">Route</string>
+	<string name="map">Map</string>
+	<string name="desc_transpor">Map</string>
+    
+</resources>
